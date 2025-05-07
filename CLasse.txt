@@ -1,0 +1,31 @@
+Classe (gera novos objetos)
+
+	* atributos (variáveis)
+	* métodos (função) apenas quando está dentro de uma classe
+Objeto
+	* mensagens (API)
+
+
+pilares da POO:
+
+1- Abstração
+
+2- Encapsulamento (proteger, apenas métodos da mesma classe pode alterar, )
+
+3- Herança () 
+
+4- Poliformismo (adaptar para outra coisa)
+
+
+
+
+menu
+
+1- listar tarefas
+2- inserir uma tarefa
+3- deletar tarefa
+4- sair
+
+
+
+
